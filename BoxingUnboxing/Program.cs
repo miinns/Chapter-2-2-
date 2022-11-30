@@ -4,7 +4,7 @@ class BoxingUnboxingApp
     public static void Main()
     {
         int foo = 526;
-        object bar = foo;
+       object bar = foo;
         Console.WriteLine(bar);
         try
         {
