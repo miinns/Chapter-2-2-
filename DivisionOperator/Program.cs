@@ -8,7 +8,7 @@ class DivisionOperatorApp
         x = 1 / 2;
         Console.Write("i = " + i);
         Console.WriteLine(", x = " + x);
-        i = (int)(1 / 2.0); // 형 변
+        i = (int)(1 / 2.0); // 형 
         x = 1 / 2.0;
         Console.Write("i = " + i);
         Console.WriteLine(", x = " + x);
