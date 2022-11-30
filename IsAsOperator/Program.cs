@@ -12,7 +12,7 @@ public class IsAsOperatorApp
         (obj as string == null));
     }
     public static void Main()
-    {
+     {
         IsOperator(10);
         IsOperator("ABC");
         AsOperator(10);
