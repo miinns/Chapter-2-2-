@@ -2,7 +2,6 @@
 class Program
 {
     public static void Main()
-
     {
         double? num1 = null;
         double? num2 = 10.0;
